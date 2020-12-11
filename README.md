@@ -10,6 +10,10 @@ Windows用の家計簿記録アプリを作成。
 
 > C#
 
+開発環境
+
+> Visual Studio
+
 データベース
 
 > SQLite
