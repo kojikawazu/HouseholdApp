@@ -1,0 +1,6 @@
+C:\Users\nanai\source\repos\HouseholdAcountApp\LibDomain\bin\Debug\LibDomain.dll
+C:\Users\nanai\source\repos\HouseholdAcountApp\LibDomain\bin\Debug\LibDomain.pdb
+C:\Users\nanai\source\repos\HouseholdAcountApp\LibDomain\obj\Debug\LibDomain.csprojAssemblyReference.cache
+C:\Users\nanai\source\repos\HouseholdAcountApp\LibDomain\obj\Debug\LibDomain.csproj.CoreCompileInputs.cache
+C:\Users\nanai\source\repos\HouseholdAcountApp\LibDomain\obj\Debug\LibDomain.dll
+C:\Users\nanai\source\repos\HouseholdAcountApp\LibDomain\obj\Debug\LibDomain.pdb
